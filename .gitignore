@@ -27,3 +27,4 @@ dist-ssr
 
 # vscode
 .vscode
+echo project_3D_developer_portfolio-main >> .gitignore
