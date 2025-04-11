@@ -92,33 +92,39 @@ const technologies = [
 
 ];
 
-const experiences = [
+ const experiences = [
   {
-    title: "Full Stack Web Developer",
-    company_name: "Bike rental",
+    title: "Bachelor of Technology - Computer Science",
+    institution: "Sreyas Institute of Engineering & Technology, Hyderabad",
     icon: shopify,
     iconBg: "#383E56",
-    //date: "Jan 2022 - Jan 2023",
+    date: "2020 - 2024",
     points: [
-      "Built a full-stack bike rental web application using Flask, SQLAlchemy, and Oracle Database.",
-      "Implemented secure user authentication and an admin panel for managing bike inventory and bookings.",
-      "Enabled users to book bikes, upload images, and view rental history through a responsive UI.",
-      "Integrated image handling and binary storage, displaying bike images dynamically.",
-      "Followed clean architecture and modular coding practices for maintainability and scalability.",
+      "Graduated with a CGPA of 7.2.",
+      "Focused on core computer science subjects including data structures, algorithms, and full-stack development.",
+      "Completed projects such as Bike Rental Management System and Speech to Text Recognition.",
     ],
   },
   {
-    title: "Desktop Application Developer",
-    company_name: "Speech-to-Text App",
+    title: "Intermediate - MPC (Maths, Physics, Chemistry)",
+    institution: "Narayana Junior College, Hyderabad",
     icon: meta,
     iconBg: "#383E56",
-   // date: "Jan 2023 - Present",
+    date: "2018 - 2020",
     points: [
-      "Developed a Python-based GUI application for real-time speech-to-text conversion using the Google Speech Recognition API.",
-      "Designed an intuitive interface with Tkinter for user-friendly interaction and voice-to-text control.",
-      "Integrated text-to-speech functionality and support for saving recognized text to files.",
-      "Handled multi-threading to ensure smooth and responsive performance during speech recognition.",
-      "Implemented support for punctuation and special characters, enhancing recognition accuracy and usability..",
+      "Scored 91% in final examinations.",
+      "Strengthened foundations in mathematics and physics, preparing for engineering entrance exams.",
+    ],
+  },
+  {
+    title: "S.S.C",
+    institution: "Krishnaveni High School, Yadadri",
+    icon: web,
+    iconBg: "#383E56",
+    date: "2017 - 2018",
+    points: [
+      "Graduated with a CGPA of 8.8.",
+      "Actively participated in school activities and science exhibitions.",
     ],
   },
 ];
