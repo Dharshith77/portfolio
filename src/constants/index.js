@@ -119,7 +119,7 @@ const technologies = [
   {
     title: "S.S.C",
     institution: "Krishnaveni High School, Yadadri",
-    icon: web,
+    icon: meta,
     iconBg: "#383E56",
     date: "2017 - 2018",
     points: [
