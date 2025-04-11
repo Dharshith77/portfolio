@@ -16,8 +16,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
+<div align="center">
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
@@ -59,7 +58,7 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-
+</div>
 **Cloning the Repository**
 
 ```bash
